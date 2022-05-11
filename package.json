@@ -1,0 +1,14 @@
+{
+  "name": "weathercon",
+  "version": "1.0.0",
+  "description": "Weather Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LittleGiant\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D G\u001b[C\u001b Giant",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

@@ -1,0 +1,39 @@
+body {
+    background-color:  #282a36;   /*#93D9A3*/
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+}
+
+.card{
+    margin-top: 80px;
+    text-align: center;
+    border: none; 
+    
+}
+
+.btn-primary{
+    margin: 5% 3% 5% 0;
+    border-radius: 15px;
+    border: none;
+    background-color: #1C7947;
+}
+
+
+.write{
+    margin: 5px;
+    border-radius: 5px;
+    width: 100%;
+    border-color: black;
+    font-weight: 800;
+}
+
+.card-title{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+
+
+
+
+
+
